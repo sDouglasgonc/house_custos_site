@@ -1,0 +1,11 @@
+.home_main{
+    height: 100%;
+    background-color: #000000;
+    
+}
+
+@media  screen and (max-width: 375px) {
+    .home_main{
+        width: 100%;
+    }
+}
